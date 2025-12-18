@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Empleado.cs" />
+    <Compile Include="Models\HorarioEmpleado.cs" />
+    <Compile Include="Models\Servicios.cs" />
+    <Compile Include="Models\Turno.cs" />
+    <Compile Include="Models\Usuarios.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
