@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\sistemas-turnos",
+    "\\sistemas-turnos\\Models"
   ],
+  "SelectedNode": "\\sistemas-turnos\\Models\\Turno.cs",
   "PreviewInSolutionExplorer": false
 }
