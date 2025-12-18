@@ -1,0 +1,15 @@
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\bin\Debug\net8.0\sistemas_turnos.exe
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\bin\Debug\net8.0\sistemas_turnos.deps.json
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\bin\Debug\net8.0\sistemas_turnos.runtimeconfig.json
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\bin\Debug\net8.0\sistemas_turnos.dll
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\bin\Debug\net8.0\sistemas_turnos.pdb
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.AssemblyInfoInputs.cache
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.AssemblyInfo.cs
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.csproj.CoreCompileInputs.cache
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.sourcelink.json
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.dll
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\refint\sistemas_turnos.dll
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.pdb
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\sistemas_turnos.genruntimeconfig.cache
+D:\JEREMIAS\programacion\Repo\sistemas-turnos\sistemas-turnos\sistemas_turnos\obj\Debug\net8.0\ref\sistemas_turnos.dll

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\",
+  "WorkspaceRootPath": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\sistemas_turnos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD969D1E-B95C-48D4-AC68-0CFD53431F5D}|sistemas-turnos.csproj|d:\\jeremias\\programacion\\repo\\sistemas-turnos\\sistemas-turnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD969D1E-B95C-48D4-AC68-0CFD53431F5D}|sistemas-turnos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B3FA960-9EF1-4721-8B1C-0163C20728B1}|sistemas_turnos.csproj|d:\\jeremias\\programacion\\repo\\sistemas-turnos\\sistemas-turnos\\sistemas_turnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3FA960-9EF1-4721-8B1C-0163C20728B1}|sistemas_turnos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\Program.cs",
+              "DocumentMoniker": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\sistemas_turnos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\Program.cs",
+              "ToolTip": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\sistemas_turnos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T19:34:33.302Z",
+              "WhenOpened": "2025-12-18T19:44:59.963Z",
               "EditorCaption": ""
             }
           ]

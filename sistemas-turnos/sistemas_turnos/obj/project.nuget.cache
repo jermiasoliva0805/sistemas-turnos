@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYSUik0g3W4=",
+  "success": true,
+  "projectFilePath": "D:\\JEREMIAS\\programacion\\Repo\\sistemas-turnos\\sistemas-turnos\\sistemas_turnos\\sistemas_turnos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEREMIAS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
